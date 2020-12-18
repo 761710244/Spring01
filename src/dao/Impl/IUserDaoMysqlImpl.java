@@ -2,7 +2,7 @@ package dao.Impl;
 
 import dao.IUserDao;
 
-public class IUserDaoImpl implements IUserDao {
+public class IUserDaoMysqlImpl implements IUserDao {
 
     @Override
     public void getUser() {

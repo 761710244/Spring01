@@ -7,5 +7,5 @@
         <property name="userDao" ref="userDao"></property>
     </bean>
 
-    <bean class="dao.Impl.IUserDaoImpl" id="userDao"></bean>
+    <bean class="dao.Impl.IUSerDaoOracleImpl" id="userDao"></bean>
 </beans>
